@@ -1,0 +1,15 @@
+﻿  Dialogs.c
+C:\XFER\WCAP\WINCAP.h(9,22): error C2040: 'DWORD_PTR': 'DWORD *' differs in levels of indirection from 'ULONG_PTR'
+  Dlgopen.c
+C:\XFER\WCAP\wincap.h(9,22): error C2040: 'DWORD_PTR': 'DWORD *' differs in levels of indirection from 'ULONG_PTR'
+C:\XFER\WCAP\Dlgopen.c(128,28): warning C4244: '=': conversion from 'LPARAM' to 'long', possible loss of data
+C:\XFER\WCAP\Dlgopen.c(122,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\XFER\WCAP\Dlgopen.c(206,37): warning C4244: '=': conversion from 'LPARAM' to 'long', possible loss of data
+  WinCap.c
+C:\XFER\WCAP\wincap.h(9,22): error C2040: 'DWORD_PTR': 'DWORD *' differs in levels of indirection from 'ULONG_PTR'
+C:\XFER\WCAP\WinCap.c(151,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\XFER\WCAP\WinCap.c(1181,13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\XFER\WCAP\WinCap.c(1223,13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\XFER\WCAP\WinCap.c(1275,17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\XFER\WCAP\WinCap.c(1549,9): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
